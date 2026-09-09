@@ -1,0 +1,6 @@
+{
+  "name": "Расписание студента",
+  "description": "Умное минималистичное расписание студента: пары, звонки, аудитории, домашние задания, оценки, сессия и виджет",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
